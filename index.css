@@ -1,0 +1,22 @@
+
+
+.middle{
+   
+   
+    
+    background: url(/wr5.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 430px;
+    position: relative;
+}
+.col-md-12{
+    margin-top: 100px;
+}
+#city{
+    height: 50px;
+    width: 300px;
+
+}
+#click1{
+
+}
